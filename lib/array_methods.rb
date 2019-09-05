@@ -3,7 +3,7 @@ array.length.times do |count|
   if array[count] == value_to_find
     p count
 end 
-
+nil
 end
 
 def find_max_value(array)
